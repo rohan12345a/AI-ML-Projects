@@ -1,0 +1,3 @@
+This spam email classifier project utilized machine learning techniques and Natural Language Processing (NLP) to develop an efficient system for identifying and classifying spam emails.
+By employing algorithms such as Naive Bayes, we trained a model to analyze and process text data from email messages.
+Using NLP techniques, we extracted relevant features from the email content, including the presence of certain keywords, email headers, and patterns in the text. These features were then used to train the Naive Bayes classifier, which learned to distinguish between spam and legitimate emails based on the provided labeled data.
