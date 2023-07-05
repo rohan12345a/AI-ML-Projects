@@ -1,0 +1,4 @@
+High-Range Smartphone Classification
+This project focuses on the classification of high-range smartphones based on their features such as RAM, ROM, camera quality, battery capacity, and more. 
+We utilized the Analytic Hierarchy Process (AHP) and Fuzzy Analytic Hierarchy Process (FAHP) methodologies 
+to assign weights to these features and determine the overall ranking of the smartphones.
