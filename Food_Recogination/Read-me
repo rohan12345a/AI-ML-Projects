@@ -1,5 +1,6 @@
 Food Detection and Recipe Generator
-This project aims to detect various types of food items using Convolutional Neural Networks (CNN) and provide corresponding recipes for the recognized food items. It utilizes the power of computer vision to create an interactive food detection and recipe generation system.
+This project aims to detect various types of food items using Convolutional Neural Networks (CNN) and provide corresponding recipes for the recognized food items. 
+It utilizes the power of computer vision to create an interactive food detection and recipe generation system.
 
 Features
 Food Detection: The trained CNN model can accurately identify different food items from input images.
